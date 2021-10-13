@@ -12,6 +12,15 @@
 <hr/>
 [Today's problem_Max Consecutive Ones](https://leetcode.com/explore/learn/card/fun-with-arrays/521/introduction/3238/)
 [Today's Learning LeetCode_Explore_Arrays 101](https://leetcode.com/explore/learn/card/fun-with-arrays/)
+<hr/>
+## 0. Introduction
+- Writing Items into an Array : Indexing
+- Reading Items from an Array : None, 
+- Writing Items into an Array with a Loop : for loop, 
+- Array Capacity vs Length
+	- [1295. Find Numbers with Even Number of Digits](https://github.com/Dinoryong/leet-code-challenge/tree/main/find-numbers-with-even-number-of-digits)
+	- [977. Squares of a Sorted Array](https://github.com/Dinoryong/leet-code-challenge/tree/main/squares-of-a-sorted-array)
+<hr/>
 ## 1. Inserting Items Into an Array
 <hr/>
 ## 2. Deleting Items From an Array
